@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "849bf946-ae3e-483d-aada-c0c2bc0f004e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 118.11 31.75)
+		(size 43.18 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "318c624f-145b-4b02-834e-7360c5a39b99")
+		(property "Sheetname" "MCU"
+			(at 118.11 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 118.11 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PlantCompanion"
+				(path "/849bf946-ae3e-483d-aada-c0c2bc0f004e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 80.01)
+		(size 44.45 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6d23271d-3253-47e9-b715-73bacc132990")
+		(property "Sheetname" "SensingBlock"
+			(at 41.91 79.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SensingBlock.kicad_sch"
+			(at 41.91 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PlantCompanion"
+				(path "/849bf946-ae3e-483d-aada-c0c2bc0f004e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 33.02)
+		(size 41.91 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c076e15-982b-41e7-8a18-ebb960df6b21")
+		(property "Sheetname" "ProgrammingInterface"
+			(at 187.96 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ProgrammingInterface.kicad_sch"
+			(at 187.96 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PlantCompanion"
+				(path "/849bf946-ae3e-483d-aada-c0c2bc0f004e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 34.29)
+		(size 44.45 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d4061872-38aa-4736-92cf-795b9f0b6880")
+		(property "Sheetname" "Powersystem"
+			(at 41.91 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powersystem.kicad_sch"
+			(at 41.91 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PlantCompanion"
+				(path "/849bf946-ae3e-483d-aada-c0c2bc0f004e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

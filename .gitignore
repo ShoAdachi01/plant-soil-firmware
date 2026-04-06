@@ -23,3 +23,10 @@ dist/
 .vscode/
 .idea/
 *.swp
+
+# KiCad
+*.lck
+*~
+#auto_saved_files#
+fp-info-cache
+*-backups/
