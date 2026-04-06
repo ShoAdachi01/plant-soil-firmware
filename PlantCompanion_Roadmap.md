@@ -1,7 +1,6 @@
 # PlantCompanion — Full Project Roadmap
 
 **Last updated:** April 6, 2026
-**Author:** Jonah + Claude
 **Project phase:** V1 schematic in progress
 
 ---
