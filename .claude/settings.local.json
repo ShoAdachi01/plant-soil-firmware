@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(rm \"/Users/js518/Documents/Plant_Companion_PCB/Schematic&Layouts/PlantCompanion 2.kicad_pro\" \"/Users/js518/Documents/Plant_Companion_PCB/Schematic&Layouts/PlantCompanion 2.kicad_prl\")",
+      "Bash(rm -rf \"/Users/js518/Documents/Plant_Companion_PCB/Schematic&Layouts/PlantCompanion 2-backups\")"
+    ]
+  }
+}
